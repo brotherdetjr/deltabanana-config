@@ -1,7 +1,8 @@
-- title: Разное
-  url: git@github.com:brotherdetjr/deltabanana-collections.git
-  branch: main
-  path: misc
-- title: Тест
-  url: git@github.com:brotherdetjr/deltabanana-collections.git
-  path: test
+collections:
+  - title: Разное
+    url: git@github.com:brotherdetjr/deltabanana-collections.git
+    branch: main
+    path: misc
+  - title: Тест
+    url: git@github.com:brotherdetjr/deltabanana-collections.git
+    path: test
