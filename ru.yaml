@@ -3,7 +3,7 @@ collections:
     url: git@github.com:brotherdetjr/deltabanana-collections.git
     branch: main
     path: misc
-    restricted: True
+    restricted: False
   - title: Тест
     url: git@github.com:brotherdetjr/deltabanana-collections.git
     path: test
